@@ -5,8 +5,6 @@
 **This project has a [Code of Conduct].**
 
 
-@Mohammad Samin 
-
 
 ## Table of contents
 
